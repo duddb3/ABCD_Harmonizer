@@ -39,7 +39,7 @@ The user interface of ABCD_Harmonizer.
 
 ## Requirements
 Currently, the software only supports sMRI and dMRI instruments in the ABCD Study's Data Release 4.0 version (https://nda.nih.gov/study.html?id=1299). Users must have these data downloaded on their local machine.
-The open-source MATLAB-based code requires an active MATLAB license to run. However, the application has also been compiled into an executable file that should be compatible with any computer running Windows and does NOT require a MATLAB license (on MATLAB runtime routines, which the provided installer can download for you).
+The open-source MATLAB-based code requires an active MATLAB license to run. However, the application has also been compiled into an executable file that should be compatible with any computer running Windows and does NOT require a MATLAB license (only MATLAB runtime routines, which the provided installer can download for you).
 
 ## References
 Fortin, J.P., Cullen, N., Sheline, Y.I., Taylor, W.D., Aselcioglu, I., Cook, P.A., Adams, P., Cooper, C., Fava, M., McGrath, P.J., McInnis, M., Phillips, M.L., Trivedi, M.H., Weissman, M.M., Shinohara, R.T., 2018. Harmonization of cortical thickness measurements across scanners and sites. Neuroimage 167, 104-120.
