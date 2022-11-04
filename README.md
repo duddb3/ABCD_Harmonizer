@@ -10,11 +10,13 @@ The harmonization approach is termed "ComBat" and the implementation employed in
 ## Use
 ![image](https://user-images.githubusercontent.com/98111478/200028418-c6d76e7e-2fe2-4ece-8f65-dc25477347c6.png)
 
-The user interface of ABCD_Harmonizer.
+Above: the user interface of ABCD_Harmonizer.
 
 ### Installation
+
 MATLAB: pull/download this repository to your local machine. In MATLAB, add the downloaded folder to your path and type "ABCD_Harmonizer" in the command window. The user interface should appear; follow the steps below
-Non-MATLAB: if you don't have an active MATLAB license, don't worry, I've compiled the tool into a Windows executable App (Windows only for now - let me know if you are a Mac user!).
+
+Non-MATLAB: if you don't have an active MATLAB license, don't worry, I've compiled the tool into a Windows executable App (Windows only for now - let me know if you are a Mac user!). Just download the "MyAppInstaller_web.exe" file; run it and follow the prompts! (note: it will check for MATLAB runtime routines on your machine and download them if necessary; it's free, but FYI it can take a while depending on your internet connection)
 
 ### Steps
 1.  Set path to ABCD Data Download
